@@ -185,7 +185,7 @@ html {
   background: #3d3f41; }
   .cover:after {
     content: '';
-    background: url(/images/solarized_darcula.jpg) center/cover no-repeat;
+    background: url(/images/background.jpg) center/cover no-repeat;
     opacity: 0.4;
     top: 0;
     left: 0;
