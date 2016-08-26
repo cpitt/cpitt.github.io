@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/cpitt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cpitt.com
+  * I am cpitt (https://keybase.io/cpitt) on keybase.
+  * I have a public key with fingerprint 8AF3 B1D2 E995 86E7 B32D  6C00 D8CA F5E3 5052 7865
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010116f08d52b482ab035ccf9608d085f18e176d592c37db77dd64c206c0b64c6c360a",
+            "fingerprint": "8af3b1d2e99586e7b32d6c00d8caf5e350527865",
+            "host": "keybase.io",
+            "key_id": "d8caf5e350527865",
+            "kid": "010116f08d52b482ab035ccf9608d085f18e176d592c37db77dd64c206c0b64c6c360a",
+            "uid": "58bdb5f696a864ef261f4792f3c38219",
+            "username": "cpitt"
+        },
+        "service": {
+            "hostname": "cpitt.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472243543,
+    "expire_in": 157680000,
+    "prev": "1134d5fccf0ab71f2c0bd6297333fe7898c31e0a2ead56fd8be2ce86d54ef805",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJdSBVBGL1aml4oeigLQYklwtJsd2Z3dvaKQVZEZESWKCrddmdmdVHv
+XndXLaSgoB9KTC9UJkQRRBlFaX+IPli3IrJEqFBTtIIIJJBK8iGoZqWghx6bl5n5
+5pwz5zt8jxbOCwQTZouOpZpl558nDDxorQ+U9F8paRIMm+4XQk1CNZvbWA1lrheu
+tqgQEkRJlCRkipgqwJAx0A0RKoSYGuIlESumhJmkIqpogECVGqpKKZIJEBERDX5A
+BCJRF3IE04pUMifqWBGPy2LdhIZEAdM0BSOmGhBQzhApJrqpMKiIClAxUjixynZ9
+Bjdn6C7LtWxe45fwnL1/4P+z7/o5OQUb1FBMpCEdI5mZAEmmrGrAhARiIGk+0GVO
+RK9lHE2ilucJB3IEXmqwCPNT9dv4+zmX2LWcFXVszyZ2DS9XeV405LO8/VEf1siM
+8G+BsGFFKA+QExqY41p2RAhJHEk8y1eUZBUAGSoyzBHYvqjlsLDlIxQVYZEv/xvW
+wCUlCcpUMXkOom6okgl4sxQBTYUQmkzFGiZQYqIOmE4VZFJsMEAY5jHxnrHox+uy
+uogthFRuU6/kkq5VGdG9eocJBx72V8wPJAQDyUmJ/mAFgqmL/4xbZ3zBTyvrenxn
+dl/jaMuH5avGOp+9bpseSA9u3rFmvKt7y7QMR46uvH565lbXZNHumQvNTcmJhZM/
+C5oP3ZnJinXGVr/tzX+49uz3e0ucl+Hij82zj98dvTuVld03tOdJ1dWU2OeC0ljf
+utJP8UXLboywtsKia8+2TRWm3XiT15oBH6SXjbwIk4ZvAxVLSm43dxx+UXAuaXzT
+ZP/ZvC/tPYGWH86r+Jb2r6WDYxu29vZWyIPlw91mZtzt6Lkvp5zpfT2V8P5u7JD7
+tCKjbmJBbpJt33RO4KUZoxvrhk5sB1UHQzUTu85dXniyJW3FEMsvPjI53F6dWb5+
+A2q96A6eSiYvg2PHL+39BWIoRCQ=
+=VxhR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cpitt
+
+==================================================================
+
